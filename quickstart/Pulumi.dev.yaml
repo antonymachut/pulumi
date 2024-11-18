@@ -1,2 +1,2 @@
-config:
-  gcp:project: spiritual-oxide-442016-a8
+environment:
+  - gcp-my-first-project/dev
